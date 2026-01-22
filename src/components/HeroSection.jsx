@@ -8,7 +8,6 @@ export const HeroSection = () => {
     >
       <div className="container max-w-4xl mx-auto text-center z-10">
         <div className="space-y-6">
-
           {/* Foto de Perfil */}
           <div className="flex justify-center mt-25 mb-12 opacity-0 animate-fade-in">
             <div className="relative w-32 h-32 md:w-40 md:h-40">
@@ -34,8 +33,8 @@ export const HeroSection = () => {
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
             Sou um entusiasta da tecnologia, atualmente cursando Análise e
             Desenvolvimento de Sistemas no SENAI. Busco criar soluções
-            inovadoras que impulsionam o crescimento dos negócios. Minha
-            fluência em inglês me permite colaborar efetivamente em ambientes
+            inovadoras que impulsionam o crescimento dos negócios. Minhas
+            habilidades em inglês me permitem colaborar efetivamente em ambientes
             globais e multiculturais. Estou constantemente aprimorando minhas
             habilidades através de projetos pessoais e colaborativos, onde
             aplico minha capacidade analítica e de resolução de problemas para
