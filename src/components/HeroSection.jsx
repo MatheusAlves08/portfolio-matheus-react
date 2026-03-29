@@ -12,7 +12,7 @@ export const HeroSection = () => {
           <div className="flex justify-center mt-25 mb-12 opacity-0 animate-fade-in">
             <div className="relative w-32 h-32 md:w-40 md:h-40">
               <img
-                src="/fotoperfil/fotominha.jpg"
+                src="/fotoperfil/fotominha.png"
                 alt="Matheus Alves"
                 className="w-full h-full rounded-full object-cover border-4 border-primary/20 shadow-lg hover:scale-105 transition-transform duration-300"
               />

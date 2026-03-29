@@ -8,7 +8,7 @@ const projects = [
         image: "/projects/tudboom1.jpg",
         tags: ["HTML", "CSS", "JavaScript", "MongoDB", "Node.js"],
         demoUrl: "https://tudboom.com.br/",
-        githubUrl: "https://github.com/Maziin07",
+        githubUrl: "https://github.com/MatheusAlves08/tudboom",
     },
 
     // Quando tiver mais projetos seguir a estrutura acima
@@ -73,7 +73,7 @@ export const ProjectsSection = () => {
                 <a 
                 className="cosmic-button w-fit flex items-center mx-auto gap-2"
                 target="_blank" 
-                href="https://github.com/Maziin07">
+                href="https://github.com/MatheusAlves08">
                     Veja meu GitHub <ArrowRight size={16}/>
                 </a>
             </div>
